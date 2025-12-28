@@ -24,9 +24,9 @@ Website ini memuat dokumentasi dari proyek-proyek akademik yang telah saya seles
 
 ### 2. Server Administration & Load Balancing 
 *Nov 2025 - Dec 2025*
-* [cite_start]**Deskripsi:** Konfigurasi dan optimalisasi performa web server menggunakan teknik Load Balancing untuk membagi trafik secara efisien[cite: 27].
-* [cite_start]**Keamanan:** Manajemen server jarak jauh (remote) dan troubleshooting menggunakan protokol SSH (PuTTY)[cite: 28].
-* [cite_start]**Tech Stack:** Nginx/Apache, Linux (Almalinux), SSH[cite: 29].
+* **Deskripsi:** Konfigurasi dan optimalisasi performa web server menggunakan teknik Load Balancing untuk membagi trafik secara efisien.
+* **Keamanan:** Manajemen server jarak jauh (remote) dan troubleshooting menggunakan protokol SSH (PuTTY).
+* **Tech Stack:** Nginx/Apache, Linux (Almalinux), SSH.
 
 ### 3. Data Mining Analysis Project
 *Aug 2025 - Dec 2025*
